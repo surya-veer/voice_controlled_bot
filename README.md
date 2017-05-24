@@ -5,4 +5,4 @@ This repository includs:
 2. Arduino code which named as "voice_controlled_bot.ino" that you have to upload into your arduino.
 3. layout.png,blocks-1.png,blocks-1.phg whould help you to make your won costomize app in mit app inventor.
 4. The circuit diagram for making a bot named as "smartphone _controlled_robot_circuit_diagram.jpg"
-for more information visit:"https://experimentswitharduino.blogspot.in" or ping me on "1998sveer@gmail.com"
+for more details visit:"https://experimentswitharduino.blogspot.in" or ping me on "1998sveer@gmail.com"
